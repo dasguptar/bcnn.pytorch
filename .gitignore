@@ -1,0 +1,7 @@
+*ipynb*
+.github
+.mypy_cache
+.vscode
+__pycache__
+ckpt/*
+data/*
